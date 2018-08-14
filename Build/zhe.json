@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Buliding",
+"dataUrl": "zhe.data.unityweb",
+"asmCodeUrl": "zhe.asm.code.unityweb",
+"asmMemoryUrl": "zhe.asm.memory.unityweb",
+"asmFrameworkUrl": "zhe.asm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
